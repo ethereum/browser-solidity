@@ -1,7 +1,0 @@
-.vscode
-build
-node_modules
-reports
-soljson.js
-npm-debug.log*
-babelify-src
